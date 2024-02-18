@@ -97,3 +97,8 @@ print(results)
 ```
 You can test this algorithm against a [list of PayPal's credit card numbers.](https://www.paypalobjects.com/en_GB/vhelp/paypalmanager_help/credit_card_numbers.htm)
 
+## LICENSE
+This repository is under the [GNU General Public License v3 (GPLv3)](https://github.com/ibnaleem/luhn-algorithm/blob/main/LICENSE)
+
+## Acknowledgements
+- [Hans Peter Luhn](https://en.wikipedia.org/wiki/Hans_Peter_Luhn)
