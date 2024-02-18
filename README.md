@@ -1,6 +1,11 @@
 # Luhn Algorithm
 The Luhn algorithm, also called the modulus 10 or mod 10 algorithm, validates various identification numbers like credit card and IMEI numbers. This repository is a Python implementation of the Luhn algorithm.
 
+## Installation
+```
+pip/pip3 install Luhn-Algorithm
+```
+
 ## Algorithm Overview
 1. Double every alternate digit, beginning with the second-last digit, and then sum the individual digits of these products.
 2. Add this sum to the sum of the digits that were not doubled.
