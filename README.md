@@ -3,7 +3,7 @@ The Luhn algorithm, also called the modulus 10 or mod 10 algorithm, validates va
 
 ## Installation
 ```
-pip/pip3 install Luhn-Algorithm
+pip/pip3 install Luhn-Algorithm==1.0.3
 ```
 
 ## Algorithm Overview
