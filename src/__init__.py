@@ -1,1 +1,1 @@
-from .luhn-algorithm import LuhnAlgorithm
+from .luhn_algorithm import LuhnAlgorithm
