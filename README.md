@@ -22,7 +22,7 @@ Every alternate digit beginning with the second-last digit is:
 ```
 Doubling each digit results in:
 ```
-4 ⋅ 2 ⋅ 6 ⋅ 2 ⋅ 1 ⋅ 2 = 8 12 2 (zeros were removed for coherence)
+4 ⋅ 2 + 6 ⋅ 2 + 1 + 2 = 8 + 12 + 2 (zeros were removed for coherence)
 ```
 Sum the individual digits of these products:
 ```
